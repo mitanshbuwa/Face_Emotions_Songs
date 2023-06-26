@@ -1,0 +1,7 @@
+opencv-python==4.7.0.72
+matplotlib==3.7.1
+mediapipe==0.10.1
+spotipy==2.23.0
+keras==2.13.1rc0
+tensorflow==2.13.0rc0
+pyinstaller==5.12.0
